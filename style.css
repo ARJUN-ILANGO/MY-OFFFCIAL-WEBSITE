@@ -1,0 +1,147 @@
+
+
+/* .ARJUN{
+    color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    padding: 32px;
+    margin: auto;
+} */
+
+.ABOUT{
+    color:blue;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    padding: 32px;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+
+.MyProjects{
+    color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    padding: 32px;
+    margin: auto;
+}
+
+.PROFULL{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    padding: 32px;
+    margin: auto;
+    
+    
+    
+}
+ *{
+     background-image: url("https://www.wallpapertip.com/wmimgs/69-691636_best-background-images-for-website-wallpapers-high-good.jpg");
+    /* background-size: 400px;  */
+
+    /* background-color: #52C0A5; */
+    
+} 
+
+.PRO{
+    border-radius: 200px; 
+    border-color: black; 
+    width:310px;
+    font-family: fantasy;
+    padding: 50px;
+    margin: auto;
+}
+
+.PROFULL img{
+    border-radius: 200px; 
+    border-color: black; 
+    width:310px;
+    font-family: fantasy;
+    padding: 50px;
+    margin: auto;
+}
+
+.PROFULL ol{
+    border: 5px solid black;
+    border-radius: 7px;
+}
+
+.info{
+   
+    
+    display: flex;
+    justify-content: space-between;
+    margin-left: 400px;
+    padding: 0.00001%;
+    
+}
+
+.family{
+
+    justify-content: center;
+    display: flex;
+}
+
+.para{
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-weight: 700;
+}
+
+.MyProjects{
+    justify-content: center;
+    display: flex;
+}
+.APARA{
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-weight: 700;
+}
+
+.github{
+
+    justify-content: center;
+    display: flex;
+}
+
+.GPARA{
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-weight: 700;
+}
+
+.CPARA{
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-weight: 700;
+}
+
+.CONTACT{
+
+    justify-content: center;
+    display: flex;
+}
+
+.contact1{
+
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-weight: 700;
+    color: violet;
+    
+
+}
